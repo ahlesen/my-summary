@@ -10,4 +10,4 @@ The course is about neural models for natural language processing. The course co
 
 # Project 
 The project was aimed at the implementation of the one-document summarization and compare different methods.
-(In order to get results, like in a Project_Summarization, you should Run All cells. If you have any problems, please contact me)
+(In order to get results, like in a Project_Summarization.ipynb, you should Run All cells. If you have any problems, please contact me)
